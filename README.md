@@ -14,5 +14,5 @@ Candra Febrian Tri Pambudi    3145162479    Ilmu Komputer 2016
 
 
 # Usage
-<code> python crawler.py profile -u cal_foodie -o ./output </code>
+<code> python crawler.py profile -u cal_foodie -o ./output </code> <br>
 jumlah posting, jumlah followers, jumlah following
