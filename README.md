@@ -17,3 +17,6 @@ Candra Febrian Tri Pambudi    3145162479    Ilmu Komputer 2016
 
 Untuk mengetahui jumlah posting, jumlah followers, jumlah following gunakan :
 <code> python crawler.py profile -u cal_foodie -o ./output </code> <br>
+
+Untuk mengetahui like, tag, comment gunakan : 
+<code> python crawler.py posts_full -u cal_foodie -n 10 -o ./output --fetch_likers --fetch_likes_plays </code>
