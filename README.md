@@ -9,5 +9,10 @@ Candra Febrian Tri Pambudi    3145162479    Ilmu Komputer 2016
 
 1. Pastikan browser Chrome telah ter-install
 2. Download <a href="https://sites.google.com/a/chromium.org/chromedriver/">chromedriver</a> dan pindahkan ke dalam folder : ./inscrawler/bin/
-3. Install Selenium : pip install -r requirements.txt
+3. Install Selenium : <span style="font-family: arial;"> pip install -r requirements.txt </span>
 4. cp inscrawler/secret.py.dist inscrawler/secret.py
+
+
+# Usage
+python crawler.py profile -u cal_foodie -o ./output
+jumlah posting, jumlah followers, jumlah following
